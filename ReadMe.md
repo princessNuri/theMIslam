@@ -1,4 +1,4 @@
-Hi! My name is islam<br>I am mobile developer<br>🌍 I'm based in Bishkek<br>
+Hi! My name is islam<br>I am mobile developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.islam69)
