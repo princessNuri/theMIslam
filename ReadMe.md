@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Islam!<br>I am android developer.<br>
+Hi, My name is Islam!<br>I'm android developer.<br>
 
 
 ## 🌐 Socials:
