@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, My name is Islam!<br>I'm android developer.<br>
+ - 🔭 Hi, My name is Islam!
+ - 🌱 I'm android developer.
 
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
