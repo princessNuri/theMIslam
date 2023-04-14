@@ -1,5 +1,3 @@
----
-
 # 💫 About Me:
  - 🔭 Hi, My name is Islam!
  - 🌱 I'm android developer.
@@ -22,5 +20,3 @@
 <img src="https://camo.githubusercontent.com/10f99fdd0657fedc9e677391ccccefd5c053c8adc01285b3ea6fedc320d33829/68747470733a2f2f6375746577616c6c70617065722e6f72672f32372f62696e6172792d636f64652d77616c6c70617065722d6769662f62696e6172792d636f64652d676966732d6765742d7468652d626573742d6769662d6f6e2d67697068792e676966" width="1200" height="400">
 
 [![](https://visitcount.itsvg.in/api?id=theMIslam&icon=1&color=12)](https://visitcount.itsvg.in)
-
----
