@@ -1,11 +1,20 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
-# 💫 About Me:
- - 🔭 Hi, My name is Islam!
- - 🌱 I'm android developer.
- - 🔗 <b>Contact Me At</b>: <br/>
-  <b><a href="valvekakaxa@gmail.com">Email: </>valvekakaxa@gmail.com .</a></p><br/>
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Islam from Kyrgyzstan<br><br>- 🔭 I’m working as android devoloper</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
