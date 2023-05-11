@@ -4,7 +4,7 @@
  - 🔗 <b>Contact Me At</b>: <br/>
   <b><a href="valvekakaxa@gmail.com">Email: </>valvekakaxa@gmail.com .</a></p><br/>
 
-![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medetbekov.002)
