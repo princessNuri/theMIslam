@@ -14,12 +14,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medetbekov.002)
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,11 +26,17 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theMIslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theMIslam&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theMIslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theMIslam&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=100&date_format=j M[ Y]&order=3" height="300" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theMIslam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="203" alt="languages graph"  />
+</div>
+
+###
 
 <img src="https://camo.githubusercontent.com/10f99fdd0657fedc9e677391ccccefd5c053c8adc01285b3ea6fedc320d33829/68747470733a2f2f6375746577616c6c70617065722e6f72672f32372f62696e6172792d636f64652d77616c6c70617065722d6769662f62696e6172792d636f64652d676966732d6765742d7468652d626573742d6769662d6f6e2d67697068792e676966" width="1200" height="400">
+
+###
 
 [![](https://visitcount.itsvg.in/api?id=theMIslam&icon=1&color=12)](https://visitcount.itsvg.in)
